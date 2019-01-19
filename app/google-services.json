@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "201492161089",
+    "firebase_url": "https://final-2e774.firebaseio.com",
+    "project_id": "final-2e774",
+    "storage_bucket": "final-2e774.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201492161089:android:5c0c1d856a922567",
+        "android_client_info": {
+          "package_name": "com.example.ratialania.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201492161089-gas9b30gft8a3ugfjpqlom9gah1sian6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Ij3vrkEN4dcb6YB8TgjOy17JP8s0C30"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
